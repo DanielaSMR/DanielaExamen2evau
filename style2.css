@@ -15,3 +15,7 @@ div{
     background-color: lightsalmon;
     color: blue;   
 }
+
+a:hover{
+    background-color: yellow;
+}
