@@ -1,0 +1,17 @@
+h2{
+    color: blue;
+    background-color: lightpink;
+    text-align: center;
+}
+p.ediciones{
+    color: royalblue;
+    background-color: aliceblue;
+    text-align: center;
+    top:-20px;
+    position: relative;
+}
+div{
+    text-align: center;
+    background-color: lightsalmon;
+    color: blue;   
+}
